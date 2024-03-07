@@ -1,0 +1,12 @@
+.outercontain {
+  padding: 56px;
+}
+
+.innercontain {
+  padding: 24px 0px 0px 31px;
+  height: 711px;
+  width: 881px;
+  align-items: center;
+  border-radius: 8px;
+  background: #fff;
+}

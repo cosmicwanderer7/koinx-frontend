@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  background: #eff2f5;
+}
+
+a {
+  text-decoration: none;
+  color: #0f1629;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -0.16px;
+}
+
+button {
+  border: none;
+  border-radius: 8px;
+  background: #2870ea;
+  color: var(--Gray-White, #fff);
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  display: flex;
+  width: 136px;
+  height: 40px;
+  padding: 8px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
